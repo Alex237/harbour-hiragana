@@ -13,7 +13,7 @@ Name:       harbour-hiragana
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    Hiragana Trainer
-Version:    2.5
+Version:    2.6
 Release:    1
 Group:      Qt/Qt
 License:    modified BSD
